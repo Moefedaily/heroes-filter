@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.challenge {
+  background-color: white;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #2c3e50;
+  margin-top: 0;
+}
+
+.hero-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.hero-list li {
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+.hero-list li:last-child {
+  border-bottom: none;
+}
+
+.count {
+  font-weight: bold;
+  color: #8f2a2a;
+}
+
+code {
+  display: block;
+  background-color: #f8f8f8;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+  font-family: monospace;
+}
