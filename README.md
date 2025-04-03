@@ -1,6 +1,6 @@
 # Filter Exercises
 
-This project contains a series of exercises to master the `filter()` method in JS, using a superheroes Array.
+This project contains a series of exercises to practicing the `filter()` method in JS, using a superheroes Array.
 
 ## Content
 
